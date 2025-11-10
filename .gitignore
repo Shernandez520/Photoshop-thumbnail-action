@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.autosave
+
+# Ignore Photoshop-specific cache and preview files
+*.psb
+*.psd.lock
+*.psdpreview
+
+# Ignore image files (optional — only if you're not including samples)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+*.bmp
